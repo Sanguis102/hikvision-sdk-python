@@ -1,0 +1,32 @@
+[2025-07-23 10:07:37.229][DBG] CCoreGlobalCtrlBase::LoadDSo, HPR_LoadDSo Succ, Path[C:/Users/admin/Desktop/Camera/hkCamera/hikvision-sdk-python/lib/zlib1.dll], hHandleRet[1846542336]
+[2025-07-23 10:07:37.229][INF] The COM:HCCoreBase ver is 6.1.4.15, 2020_03_05. Async:1.
+[2025-07-23 10:07:37.229][INF] The COM:Core ver is 6.1.9.48, 2023_04_10. Async:1.
+[2025-07-23 10:07:37.229][INF] This HCNetSDK ver is 6.1.9.48 Ver 2023_04_10.
+[2025-07-23 10:07:37.230][INF] Login dev 192.168.5.220:8000.
+[2025-07-23 10:07:37.230][INF] dwTotalNum[2048]
+[2025-07-23 10:07:37.255][INF] Private connect 192.168.5.220:8000 sock=1756 this=0xf754c0e4 cmd=0x10000 port=51702
+[2025-07-23 10:07:37.255][INF] LogonDev1 in[192.168.5.220:8000]
+[2025-07-23 10:07:37.259][DBG] CCoreGlobalCtrlBase::LoadDSo, HPR_LoadDSo Succ, Path[C:/Users/admin/Desktop/Camera/hkCamera/hikvision-sdk-python/lib/libcrypto-1_1-x64.dll], hHandleRet[-1953955840]
+[2025-07-23 10:07:37.259][DBG] Load [libcrypto-1_1-x64.dll] SUCC, Real Path[C:\Users\admin\Desktop\Camera\hkCamera\hikvision-sdk-python\lib\libcrypto-1_1-x64.dll]
+[2025-07-23 10:07:37.263][DBG] CCoreGlobalCtrlBase::LoadDSo, HPR_LoadDSo Succ, Path[C:/Users/admin/Desktop/Camera/hkCamera/hikvision-sdk-python/lib/libssl-1_1-x64.dll], hHandleRet[-1954873344]
+[2025-07-23 10:07:37.263][DBG] Load [libssl-1_1-x64.dll] SUCC, Real Path[C:\Users\admin\Desktop\Camera\hkCamera\hikvision-sdk-python\lib\libssl-1_1-x64.dll]
+[2025-07-23 10:07:37.264][INF] SSLTRANSAPI::IsAllAPILoaded, SSL_library_init Unload
+[2025-07-23 10:07:37.264][INF] OpenSSL, Not All Function Loaded!
+[2025-07-23 10:07:37.264][INF] SSLTRANSAPI::PrintVersion, OpenSSL version info [OpenSSL 1.1.1l  24 Aug 2021]
+[2025-07-23 10:07:37.264][INF] CSSLTrans::SSLCtxInit, dwSSLVersion[6], m_fnTLSServerMethod
+[2025-07-23 10:07:37.274][ERR] CSSLTrans::SSLTrans_CTX_Load_CA, invalid path[C:/Users/admin/Desktop/Camera/hkCamera/hikvision-sdk-python/lib/cert/\]
+[2025-07-23 10:07:38.468][DBG] CComBase::Load, Load szDllPath[C:/Users/admin/Desktop/Camera/hkCamera/hikvision-sdk-python/lib/HCNetSDKCom/HCPreview.dll] SUCC
+[2025-07-23 10:07:38.469][INF] AbilityAnalyze---Init-- start
+[2025-07-23 10:07:38.479][INF] The COM:Preview ver is 6.1.9.48, 2023_04_10.
+[2025-07-23 10:07:38.493][INF] Private connect 192.168.5.220:8000 sock=1976 this=0xf754c0e4 cmd=0x30000 port=51715
+[2025-07-23 10:07:38.523][INF] ID-IP-CHAN[0-192.168.5.220-1] [CGetTCPStream::Start] Stream Head Data Callback Start
+[2025-07-23 10:07:38.523][INF] ID-IP-CHAN[0-192.168.5.220-1] [CGetTCPStream::Start] Stream Head Data Callback End
+[2025-07-23 10:07:38.523][INF] CCoreGlobalCtrl::LoadDSo, enumDllType[2], cTempPath[C:/Users/admin/Desktop/Camera/hkCamera/hikvision-sdk-python/lib/HCNetSDKCom/]
+[2025-07-23 10:07:38.530][DBG] CCoreGlobalCtrl::LoadDSo, HPR_LoadDSo, hHandleRet[-2147090432], enumDllType[2], Path[SystemTransform.dll], syserror[0]
+[2025-07-23 10:07:38.530][INF] CStreamConvert::LoadConvertLib Load Succ, m_iInitCount = 1
+[2025-07-23 10:07:38.531][DBG] ID-IP-CHAN[0-192.168.5.220-1] RTP Format
+[2025-07-23 10:07:41.722][DBG] CStreamConvert::UnloadConvertLib, m_iInitCount = 0
+[2025-07-23 10:07:41.727][INF] COM_Logout[0][0]
+[2025-07-23 10:07:41.727][DBG] CUserMgr::UnRegisterHeartProxy[0]
+[2025-07-23 10:07:41.752][INF] Private connect 192.168.5.220:8000 sock=1816 this=0xf754c0e4 cmd=0x10100 port=51719
+[2025-07-23 10:07:41.756][INF] CTransUnitMgr::UnloadTransUnitLib

@@ -1,0 +1,39 @@
+{
+	"Devices":	[{
+			"ID":	0,
+			"SerialNumber":	"iDS-2ZMC4012S-NTMF(B)20220708AARRK26281198",
+			"ChannelNumber":	1,
+			"StartChannel":	1,
+			"AlarmInNum":	1,
+			"AlarmOutNum":	1,
+			"IPChanNum":	0,
+			"MirrorChanNum":	0,
+			"StartMirrorChanNo":	0,
+			"LocalNodeName":	"camera",
+			"DeviceType":	31,
+			"DiskNum":	0,
+			"LoginUserName":	"admin",
+			"LoginUserPwd":	"glp33068",
+			"DeviceIP":	"192.168.5.220",
+			"DeviceMultiIP":	"0.0.0.0",
+			"DevicePort":	8000,
+			"DeviceName":	"iDS-2ZMC4012S-NTMF(B)",
+			"LoginMode":	0,
+			"Https":	0,
+			"Channels":	[{
+					"ChanID":	0,
+					"DeviceIndex":	0,
+					"ChanIndex":	0,
+					"ChanName":	"Camera1",
+					"Protocol":	0,
+					"PicResolution":	0,
+					"PicQuality":	0,
+					"Enable":	1,
+					"PreviewMode":	0,
+					"PreviewProtocolType":	0,
+					"VideoCodingType":	0,
+					"StreamType":	0,
+					"LinkMode":	0
+				}]
+		}]
+}
